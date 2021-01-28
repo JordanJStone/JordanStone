@@ -1,0 +1,29 @@
+Top 10 Companies to work at:
+(I see myself as most likely a front-end developer since there are more jobs in front end)
+
+1.ClickBank
+2.Advanced Career Networks
+3.Crave Delivery
+4.Optello
+5.Collage.com
+6.Idaho State Job Bank
+7.CyberCoders
+8.ICF
+9.FlexTechs
+10.Zennify
+11.Allata
+12.Curious Media Inc.
+
+WordCloud Top Words:
+experience
+team
+will
+software
+development
+technologies
+stack
+work
+React
+web
+
+
