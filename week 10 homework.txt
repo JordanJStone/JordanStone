@@ -1,0 +1,100 @@
+Elevator Pitch
+
+- Currently worked at Perspecta for 18 months as a Tier 1 Navy Help Desk Agent
+- I help customers with a variety of software and hardware issues
+
+- I have experience with problem solving as a lot of the time, customers do not know 	what their issue is, so I have to ask the right questions to drill down to what 	the real main issue.
+
+
+- I am currently finishing up a full time 13 week web developer course from Boise CodeWorks.
+- I now have hands on experience building full stack applications
+- I use Vue.js for the front end and both C# and Node.js for the backend
+- I have used SQL to create relational databases including many-to-many relationships
+
+- We touched lightly on the different types of testing and the importance, it is 	something I will be heavily learning after school
+
+
+- I also work in the Cyber Operations Squadron at Gowen as a drill status guardsmen. I have been in the unit for almost 5 years, my job title is Cyber Transport which means I primarily work with installing hardware.
+
+- This includes installing physical servers with ESXi and a distributed install of Security Onion.
+- I helped install the fiber infrastructure of a new facility, and image 100's of machines with an Air Force Windows 10 image.
+- I am a first line supervisor currently and directly mentor 3 airmen and indirectly 	others around me in job best practices.
+
+
+- I plan on continuing my learning in software development so I can bring a variety of skills into a job role.
+
+**********************************************************
+5 Behaviorial Questions
+
+1. Talk about a time when you had to work closely with someone whose personality was very different from yours.
+
+Situation: I worked in a group for my Capstone project where one of my partners did not always listen to my suggestions for the code and got upset easily.
+Task: I recommended a code fix and they basically ignored my response and kept trying to fix the solution.
+Action: I would watch them code for a minute or two and then try to rephrase my suggested fix in a better way that they would understand so they would want to try it.
+Resolution: When their fix did not work they would ask if anybody had a fix and I would politely say my response again and they would be more open to try it now.
+
+***************************
+2. Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?
+
+Situation: I work in a helpdesk taking calls from customers
+Task: Customers will sometimes not listen to my questions and not respond to them and keep rambling on about their issue when I already have an idea of how to fix it.
+Action: I let the customer keep talking, and I usually politely ask my question multiple times.
+Resolution: After they hear me ask the same question, they usually realize we are going in circles and actually listen to the question and respond.
+
+************************
+3. Describe a time when you had to interact with a difficult client. What was the situation, and how did you handle it?
+
+Situation: I take calls from customers and can't always give them good news
+Task: Sometimes the resolution I have to give customers is not an easy one, and they are not pleased
+Action: I let them know that while it is not convienent, it is the best way to get their computer fixed and on their way
+Resolution: They accept their answer and are on their way
+
+************************
+4. Sometimes it’s just not possible to get everything on your to-do list done. Tell me about a time your responsibilities got a little overwhelming. What did you do?
+
+Situation: I had multiple tasks assigned to me at work with a deadline of EOD
+Task: A few tasks were unable to be completed today due to things outside of my control
+Action: I let my supervisor know about the tasks that can't be completed and why. I then ranked the tasks on how I think they should be done and verify with my supervisor this is the way.
+Resolution: Get as many done as I can and report back to my supervisor EOD
+
+************************
+5. Give me an example of a time when you had to explain something fairly complex to a frustrated client. How did you handle this delicate situation?
+
+Situation: I had to explain the new certificate alignment process to a customer
+Task: The customer did not understand why he needed to be on base and why at a machine on an ethernet cable and how the alignment helped anything
+Action: Luckily I have had experience explaining this process before, so I drill down a bit more into the process, letting the customer know exactly what happens when we make a change to their active directory account. I also let them know they aren't the only ones with this issue.
+Resolution: The customer usually feels better knowing they know why this is the solution and they are not alone in this problem.
+**********************************************************
+Brief summary of things to prepare for interview
+
+- Breathing exercises (I hype myself up a lot)
+- Write out answers to possible questions that will be asked
+- Take the time to learn the company and ask questions about it to show you did your homework
+- Thank the interviewer for their time at the end
+**********************************************************
+Whiteboard Challenges (partner: Jason)
+
+-Create a function that takes length and width and finds the perimeter of a rectangle.
+
+	This one was pretty easy and I was able to solve it quickly. Jason challenged me to fit the solution into 1 line which I did. He then showed me an even better 1 line solution after this.
+
+-Give me a string starting with "something", then a space, followed by the given argument a.
+
+	This was also fairly easy. Jason and I talked about the different ways that we would have solved this one.
+
+-Create a function that returns the thickness (in meters) of a piece of paper after folding it n number of times. The paper starts off with a thickness of 0.5mm.
+
+	This one was very tough and I did not figure it out on my own. Jason took a stab at it as he did not know the solution. Together we solved it and talked about why that was the solution.
+***********************************************************
+5 Questions to ask at end of Interview
+
+- How did the company get started?
+- What is the path of the company in the next 2-5 years?
+- What do you like best about working at _______?
+- How is the people culture here?
+- Does the company have a focus on learning new technologies?
+***********************************************************
+
+
+
+
